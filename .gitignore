@@ -1,0 +1,9 @@
+/lariska
+/.build/
+.DS_Store
+*.dSYM/
+.swiftpm/
+
+# local only
+/Tests/
+/test.sh
